@@ -1,0 +1,33 @@
+{
+  "name": "ml-keywords-extractor",
+  "version": "1.0.0",
+  "description": "You can extract keywords from text automaticaly using machine learning, e.g. keywords, tags, topic...etc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeMaher/ml-keywords-extractor.git"
+  },
+  "keywords": [
+    "tags",
+    "keyword",
+    "keywords",
+    "topic",
+    "title",
+    "machine",
+    "learning",
+    "ML",
+    "tensorflow",
+    "tag",
+    "text",
+    "summarization"
+  ],
+  "author": "Mohamed Maher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoeMaher/ml-keywords-extractor/issues"
+  },
+  "homepage": "https://github.com/MoeMaher/ml-keywords-extractor#readme"
+}
